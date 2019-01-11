@@ -3,3 +3,78 @@
     CODE YOUR STYLES BELOW!
 
    ====================================== */
+
+.mario-block {
+    display: inline-block;
+    position: relative;
+    margin: 80px auto;
+    width: 16em;
+    height: 16em;
+
+
+    background: yellowgreen;
+}
+
+.mario {
+    display: block;
+    width: 1em;
+    height: 1em;
+    background-color: skyblue;
+
+    box-shadow: 0em 0em skyblue,
+                1em 0em skyblue,
+                2em 0em skyblue,
+                3em 0em skyblue,
+                4em 0em skyblue,
+                5em 0em skyblue,
+                6em 0em skyblue,
+                7em 0em skyblue,
+                8em 0em skyblue,
+                9em 0em skyblue,
+                10em 0em skyblue,
+                11em 0em skyblue,
+                12em 0em skyblue,
+                13em 0em skyblue,
+                14em 0em skyblue,
+                15em 0em skyblue,
+
+                0em 1em skyblue,
+                1em 1em skyblue,
+                2em 1em skyblue,
+                3em 1em skyblue,
+                4em 1em skyblue,
+
+                5em 1em red,
+                6em 1em red,
+                7em 1em red,
+                8em 1em red,
+                9em 1em red,
+
+                10em 1em skyblue,
+                11em 1em skyblue,
+
+                12em 1em peachpuff,
+                13em 1em peachpuff,
+                14em 1em peachpuff,
+                15em 1em skyblue,
+
+                0em 2em skyblue,
+                1em 2em skyblue,
+                2em 2em skyblue,
+                3em 2em skyblue,
+
+                4em 2em red,
+                5em 2em red,
+                6em 2em red,
+                7em 2em red,
+                8em 2em red,
+                9em 2em red,
+                10em 2em red,
+                11em 2em red,
+                12em 2em red,
+                13em 2em peachpuff,
+                14em 2em peachpuff,
+                15em 2em skyblue;
+
+
+}
